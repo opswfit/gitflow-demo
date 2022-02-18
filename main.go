@@ -7,6 +7,6 @@ func main() {
   fmt.Println("call main function")
 =======
   fmt.Println("callmainfunction")
-  fmt.Println("Hello") 
+  fmt.Println("Hello World") 
 >>>>>>> Stashed changes
 }
