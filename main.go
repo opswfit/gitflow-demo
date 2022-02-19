@@ -3,10 +3,6 @@ package main
 import "fmt"
 
 func main() {
-<<<<<<< Updated upstream
-  fmt.Println("call main function")
-=======
   fmt.Println("callmainfunction")
-  fmt.Println("Hello World") 
->>>>>>> Stashed changes
+  fmt.Println("Hello") 
 }
